@@ -1,0 +1,46 @@
+{
+    "name": "Solana Lab Mice #1111",
+    "symbol": "SLM",
+    "description": "Collection of 1111 Genesis Mice That have escaped the lab. Ultimate Alpha Community ",
+    "seller_fee_basis_points": 1000,
+    "image": "1111.png",
+    "external_url": "SolanaLabMice.com",
+    "edition": 1111,
+    "collection": {
+      "name": "Solana Lab Mice",
+      "family": "Lab Mice"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Skins",
+        "value": "Wild Mice "
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Funny Hat "
+      },
+      {
+        "trait_type": "mouth",
+        "value": "skully Blunt  "
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1111.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "C3VLNhgA9HRx8jzEvqZaHvceefKneRDBsqiTed6WQWgP",
+          "share": 100
+        }
+      ]
+    }
+  }
